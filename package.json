@@ -76,7 +76,7 @@
   },
   "volta": {
     "node": "16.13.1",
-    "yarn": "1.22.17"
+    "yarn": "1.22.22"
   },
   "msw": {
     "workerDirectory": "public"
